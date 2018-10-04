@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Boston Bruins",
+    "year": "1990",
+    "wins": "44",
+    "losses": "24"
+  },
+  {
+    "name": "Buffalo Sabres",
+    "year": "1990",
+    "wins": "31",
+    "losses": "30"
+  },
+  {
+    "name": "Calgary Flames",
+    "year": "1990",
+    "wins": "46",
+    "losses": "26"
+  },
+  {
+    "name": "Chicago Blackhawks",
+    "year": "1990",
+    "wins": "49",
+    "losses": "23"
+  },
+  {
+    "name": "Detroit Red Wings",
+    "year": "1990",
+    "wins": "34",
+    "losses": "38"
+  },
+  {
+    "name": "Edmonton Oilers",
+    "year": "1990",
+    "wins": "37",
+    "losses": "37"
+  },
+  {
+    "name": "Hartford Whalers",
+    "year": "1990",
+    "wins": "31",
+    "losses": "38"
+  },
+  {
+    "name": "Los Angeles Kings",
+    "year": "1990",
+    "wins": "46",
+    "losses": "24"
+  },
+  {
+    "name": "Minnesota North Stars",
+    "year": "1990",
+    "wins": "27",
+    "losses": "39"
+  },
+  {
+    "name": "Montreal Canadiens",
+    "year": "1990",
+    "wins": "39",
+    "losses": "30"
+  },
+  {
+    "name": "New Jersey Devils",
+    "year": "1990",
+    "wins": "32",
+    "losses": "33"
+  },
+  {
+    "name": "New York Islanders",
+    "year": "1990",
+    "wins": "25",
+    "losses": "45"
+  },
+  {
+    "name": "New York Rangers",
+    "year": "1990",
+    "wins": "36",
+    "losses": "31"
+  },
+  {
+    "name": "Philadelphia Flyers",
+    "year": "1990",
+    "wins": "33",
+    "losses": "37"
+  },
+  {
+    "name": "Pittsburgh Penguins",
+    "year": "1990",
+    "wins": "41",
+    "losses": "33"
+  },
+  {
+    "name": "Quebec Nordiques",
+    "year": "1990",
+    "wins": "16",
+    "losses": "50"
+  },
+  {
+    "name": "St. Louis Blues",
+    "year": "1990",
+    "wins": "47",
+    "losses": "22"
+  },
+  {
+    "name": "Toronto Maple Leafs",
+    "year": "1990",
+    "wins": "23",
+    "losses": "46"
+  },
+  {
+    "name": "Vancouver Canucks",
+    "year": "1990",
+    "wins": "28",
+    "losses": "43"
+  },
+  {
+    "name": "Washington Capitals",
+    "year": "1990",
+    "wins": "37",
+    "losses": "36"
+  },
+  {
+    "name": "Winnipeg Jets",
+    "year": "1990",
+    "wins": "26",
+    "losses": "43"
+  },
+  {
+    "name": "Boston Bruins",
+    "year": "1991",
+    "wins": "36",
+    "losses": "32"
+  },
+  {
+    "name": "Buffalo Sabres",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "name": "Calgary Flames",
+    "year": "1991",
+    "wins": "31",
+    "losses": "37"
+  },
+  {
+    "name": "Chicago Blackhawks",
+    "year": "1991",
+    "wins": "36",
+    "losses": "29"
+  }
+]
